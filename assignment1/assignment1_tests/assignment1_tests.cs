@@ -12,7 +12,7 @@ namespace assignment1_tests
     class CalcTests
     {
         [Test]
-        public void Getrectanglelength_Input5_Returns5()
+        public void Getrectanglelength_Input6_Returns6()
         {
             //Arrange
             int l = 4;
